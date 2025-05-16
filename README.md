@@ -65,3 +65,14 @@ Available options:
 > **n_samples_per_condition:** IMLE Policy-specific hyperparameter that controls the number of samples per condition
 
 > **use_traj_consistency:** IMLE Policy-specific hyperparameter that controls whether to use trajectory consistency or not
+
+
+## Citation
+
+If you found our code helpful please consider citing:
+
+<pre><code>
+  @inproceedings{rana2025imle, title = {IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation}, 
+  author = {Rana, Krishan and Lee, Robert and Pershouse, David and Suenderhauf, Niko}, 
+  booktitle = {Proceedings of Robotics: Science and Systems (RSS)}, year = {2025}} 
+</code></pre>
