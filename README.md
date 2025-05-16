@@ -14,4 +14,4 @@
 <sup>†</sup>Equal Contribution,
 <sup>1</sup>Queensland University of Technology,
 
-<img src="media/teaser.png" alt="drawing" width="100%"/>
+<img src="media/main.png" alt="drawing" width="100%"/>
