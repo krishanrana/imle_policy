@@ -3,12 +3,12 @@
 [[Project page]](https://imle-policy.github.io/)
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf)
 [[Data]](#)
-[[Colab (vision)]](https://colab.research.google.com/drive/18GIHeOQ5DyjMN8iIRZL2EKZ0745NLIpg?usp=sharing)
+[[Colab (vision)]](#)
 
 
 [Krishan Rana](https://krishanrana.github.io/)<sup>†,1</sup>,
 [Robert Lee](https://scholar.google.com.au/citations?user=1Vqlm0kAAAAJ&hl=en)<sup>†</sup>,
-[David Perhouse](#)<sup>1</sup>,
+[David Pershouse](#)<sup>1</sup>,
 [Niko Suenderhauf](https://nikosuenderhauf.github.io/)<sup>1</sup>,
 
 <sup>†</sup>Equal Contribution,
