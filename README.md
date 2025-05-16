@@ -72,7 +72,8 @@ Available options:
 If you found our code helpful please consider citing:
 
 <pre><code>
-  @inproceedings{rana2025imle, title = {IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation}, 
+  @inproceedings{rana2025imle, 
+  title = {IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation}, 
   author = {Rana, Krishan and Lee, Robert and Pershouse, David and Suenderhauf, Niko}, 
   booktitle = {Proceedings of Robotics: Science and Systems (RSS)}, year = {2025}} 
 </code></pre>
