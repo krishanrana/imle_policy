@@ -6,6 +6,7 @@ description = "IMLE Policy"
 authors = [
     { name = "Krishan Rana", email = "ranak@qut.edu.au" },
     { name = "Robert Lee", email = "rlee3359@gmail.com" },
+    { name = "David Pershouse", email = " " },
 ]
 readme = "README.md"
 requires-python = ">=3.10"
