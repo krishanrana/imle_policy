@@ -1,0 +1,57 @@
+
+[project]
+name = "imle_policy"
+version = "0.1.0"
+description = "IMLE Policy"
+authors = [
+    { name = "Krishan Rana", email = "ranak@qut.edu.au" },
+    { name = "Robert Lee", email = "rlee3359@gmail.com" },
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cmake>=3.29.0.1",
+    "datasets>=2.19.0",
+    "deepdiff>=7.0.1",
+    "diffusers>=0.27.2",
+    "draccus==0.10.0",
+    "einops>=0.8.0",
+    "flask>=3.0.3",
+    "gdown>=5.1.0",
+    "gymnasium==0.29.1",                                                 
+    "h5py>=3.10.0",
+    "huggingface-hub[hf-transfer,cli]>=0.27.1 ; python_version < '4.0'",
+    "imageio[ffmpeg]>=2.34.0",
+    "jsonlines>=4.0.0",
+    "numba>=0.59.0",
+    "omegaconf>=2.3.0",
+    "opencv-python-headless>=4.9.0",
+    "packaging>=24.2",
+    "av>=14.2.0",
+    "pymunk>=6.6.0",
+    "pynput>=1.7.7",
+    "pyzmq>=26.2.1",
+    "rerun-sdk>=0.21.0",
+    "termcolor>=2.4.0",
+    "torch>=2.2.1,<2.7",
+    "torchcodec==0.2.1; sys_platform != 'win32' and (sys_platform != 'linux' or (platform_machine != 'aarch64' and platform_machine != 'arm64' and platform_machine != 'armv7l')) and (sys_platform != 'darwin' or platform_machine != 'x86_64')",
+    "torchvision>=0.21.0",
+    "wandb>=0.16.3",
+    "zarr>=2.17.0",
+    "gym>=0.23.1",
+    "pygame>=2.6.1",
+    "shapely>=2.0.6",
+    "scikit-image>=0.25.0",
+    "robosuite @ git+https://github.com/ARISE-Initiative/robosuite@v1.4.1",
+    "gym_custom @ ./imle_policy/envs/ur3",
+    "d4rl @ git+https://github.com/Farama-Foundation/d4rl@master",
+    "cython<=3",
+    "matplotlib>=3.10.0",
+    "dm_control<=1.0.20",
+    "mujoco<=3.1.6"
+]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

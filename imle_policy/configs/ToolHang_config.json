@@ -1,0 +1,24 @@
+
+
+{
+    "vision_feature_dim": 512,
+    "lowdim_obs_dim": 11,
+    "obs_dim": 1035,
+    "action_dim": 7,
+    "noise_dim": 32,
+    "pred_horizon": 16,
+    "obs_horizon": 2,
+    "action_horizon": 8,
+    "dataset_path": "datasets/toolhang_ph_image.hdf5",
+    "num_diffusion_iters": 100,
+    "device": "cuda",
+    "max_steps": 700,
+    "seed_start": 100000,
+    "num_trails": 50,
+    "num_epochs": 1000,
+    "timestep_integer_scaler": 100,
+    "num_cameras": 2,
+    "batch_size": 128,
+    "num_flow_iters": 1
+
+}
