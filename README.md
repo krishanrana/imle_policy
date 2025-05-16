@@ -3,7 +3,7 @@
 [[Project page]](https://imle-policy.github.io/)
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf)
 [[Data]](#)
-[[Colab (vision)]](https://colab.research.google.com/drive/18GIHeOQ5DyjMN8iIRZL2EKZ0745NLIpg?usp=sharing)
+[[Colab (vision)]](#)
 
 
 [Krishan Rana](https://krishanrana.github.io/)<sup>†,1</sup>,
