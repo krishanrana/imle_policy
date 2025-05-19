@@ -56,6 +56,7 @@ To train IMLE Policy on the PushT task with all the default parameters, run:
 ```bash
 python train.py --task pusht --method rs_imle 
 ```
+Note: you will be prompted to login to your [wandb](https://wandb.ai/home) account the first time you run this.
 
 Available options:
 
