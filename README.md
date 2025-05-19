@@ -3,7 +3,6 @@
 [[Project page]](https://imle-policy.github.io/)
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf)
 [[Data]](https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/datasets.zip)
-[[Colab]](#)
 
 
 [Krishan Rana](https://krishanrana.github.io/)<sup>†,1</sup>,
