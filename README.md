@@ -42,12 +42,12 @@ Download Mujoco for the Kitchen and UR3 Block Push environments:
 Download all the required datasets and extract (~25GB):
 ```bash
 cd imle_policy
-wget https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/datasets.zip && unzip datasets.zip -d datasets && rm datasets.zip
+wget https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/datasets.zip && unzip datasets.zip datasets && rm datasets.zip
 ```
 To download and extract only the PushT sim dataset:
 ```bash
 cd imle_policy
-wget https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/pusht_dataset/datasets.zip && unzip datasets.zip -d datasets && rm datasets.zip
+wget https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/pusht_dataset/datasets.zip && unzip datasets.zip datasets && rm datasets.zip
 ```
 
 ## Quick Start
