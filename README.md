@@ -1,5 +1,9 @@
 # IMLE Policy
 
+Robotics: Science and Systems (RSS) 2025 
+
+IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation
+
 [[Project page]](https://imle-policy.github.io/)
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf)
 [[Data]](https://huggingface.co/datasets/krishanrana/imle_policy/resolve/main/datasets.zip)
