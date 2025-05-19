@@ -26,7 +26,7 @@ cd imle_policy
 
 Create a virtual environment with Python 3.10 and activate it, e.g. with [`miniconda`](https://docs.anaconda.com/free/miniconda/index.html):
 ```bash
-conda create -y -n imle_policy0 python=3.10 evdev=1.9.0 xorg-x11-proto-devel-cos6-x86_64 glew mesa-libgl-devel-cos6-x86_64 libglib
+conda create -y -n imle_policy python=3.10 evdev=1.9.0 xorg-x11-proto-devel-cos6-x86_64 glew mesa-libgl-devel-cos6-x86_64 libglib
 conda activate imle_policy
 ```
 
