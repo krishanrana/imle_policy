@@ -87,6 +87,7 @@ If you found our code helpful please consider citing:
 ## Acknowledgement
 The authors would like to thank the open source code upon which this project was built upon:
 * The policy architectures, diffusion policy implementation and Push-T env are built off the [Diffusion Policy](https://github.com/real-stanford/diffusion_policy/tree/main) repository.
+* The RS-IMLE implentation was adapted from the [RS-IMLE](https://github.com/SerChirag/rs-imle) repository.
 * The Lift, NutAssemblySquare, PickPlaceCan, ToolHang, and TwoArmTransport environments are provided by [Robomimic](https://github.com/ARISE-Initiative/robomimic).
 * The Kitchen environment is provided by [D4RL](https://github.com/Farama-Foundation/D4RL/tree/master/d4rl/kitchen).
 * The UR3 Block Push environment is adapted from the [VQ-BeT](https://github.com/jayLEE0301/vq_bet_official) repository.
