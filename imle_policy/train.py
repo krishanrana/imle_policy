@@ -59,6 +59,9 @@ def load_config(task):
 
 def setup_wandb(args_dict):
     wandb.init(project=args_dict['wandb_run_name'])
+
+    if wandb.run.name is None: # if user does not login to wandb
+        wandb.run.name = args_dict['wandb_run_name']
     
     if args_dict['method'] == 'diffusion':
         run_name = wandb.run.name + "_" + args_dict['method'] + f"_dataset_percentage_{args_dict['dataset_percentage']}_{args_dict['task']}"
